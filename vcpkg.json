@@ -1,0 +1,21 @@
+{
+  "dependencies" : [ "boost-system", {
+    "name" : "boost-process",
+    "version>=" : "1.83.0"
+  }, {
+    "name" : "fmt",
+    "version>=" : "10.1.1"
+  }, {
+    "name" : "spdlog",
+    "version>=" : "1.12.0"
+  }, {
+    "name" : "nlohmann-json",
+    "version>=" : "3.11.2"
+  }, {
+    "name" : "boost-program-options",
+    "version>=" : "1.83.0"
+  }, {
+    "name" : "boost-filesystem",
+    "version>=" : "1.83.0"
+  } ]
+}
